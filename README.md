@@ -22,17 +22,3 @@ A C++ project for controlling and interfacing with a 0.96" OLED display.
 ### Prerequisites
 - C++ compiler
 - Appropriate hardware for 0.96" OLED display
-
-### Installation
-1. Clone the repository
-2. Build the project
-3. Wire the display according to the diagram above
-
-## Usage
-[Add usage instructions here]
-
-## Contributing
-Feel free to submit issues and enhancement requests.
-
-## License
-[Add license information here]
